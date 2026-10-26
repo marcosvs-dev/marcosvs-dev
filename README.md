@@ -1,13 +1,13 @@
-<h1 data-importer="text" align="left">Hey 👋 What's up?</h1>
+<h1 data-importer="text" align="left">Olá 👋 Tudo bem?</h1>
 
 ###
 
-<p data-importer="text" align="left">Meu nome é Marcos Vinicius. Sou desenvolvedor front-end e web designer, com formação em Análise e Desenvolvimento de Sistemas e curso técnico em Informática.<br><br>Gosto de transformar ideias em interfaces limpas, responsivas e fáceis de usar.
-🎯 Em busca da minha primeira oportunidade como desenvolvedor front-end, remoto ou presencial.</p>
+<p data-importer="text" align="left">Meu nome é Marcos Vinicius. Sou desenvolvedor front-end e web designer, com formação em Análise e Desenvolvimento de Sistemas e curso técnico em Informática.<br><br>Gosto de transformar ideias em interfaces limpas, responsivas e fáceis de usar.</p>
+🎯 Em busca da minha primeira oportunidade como desenvolvedor front-end, remoto ou presencial.
 
 ###
 
-<h2 data-importer="text" align="left">About me</h2>
+<h2 data-importer="text" align="left">Sobre mim</h2>
 
 ###
 
@@ -15,7 +15,7 @@
 
 ###
 
-<h2 data-importer="text" align="left">I code with</h2>
+<h2 data-importer="text" align="left">Eu programo com</h2>
 
 ###
 

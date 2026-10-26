@@ -2,7 +2,8 @@
 
 ###
 
-<p data-importer="text" align="left">Meu nome é Marcos Vinicius. Sou desenvolvedor front-end e web designer, com formação em Análise e Desenvolvimento de Sistemas e curso técnico em Informática.<br><br>Gosto de transformar ideias em interfaces limpas, responsivas e fáceis de usar. 🎯 Em busca da minha primeira oportunidade como desenvolvedor front-end, remoto ou presencial.</p>
+<p data-importer="text" align="left">Meu nome é Marcos Vinicius. Sou desenvolvedor front-end e web designer, com formação em Análise e Desenvolvimento de Sistemas e curso técnico em Informática.<br><br>Gosto de transformar ideias em interfaces limpas, responsivas e fáceis de usar.
+🎯 Em busca da minha primeira oportunidade como desenvolvedor front-end, remoto ou presencial.</p>
 
 ###
 
